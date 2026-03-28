@@ -1,75 +1,111 @@
-#Ferns and Petals (FNP) Sales Analysis
+# 🌸 Ferns and Petals (FNP) Sales Analysis
 
-#Project Overview
-This project presents a comprehensive analysis of sales data from Ferns and Petals (FNP), an online gifting platform. The objective is to extract meaningful insights related to sales performance, customer behavior, product trends, and operational efficiency.
+## 📌 Project Overview
+This project presents a comprehensive analysis of sales data from Ferns and Petals (FNP), an online gifting platform.  
+The main objective is to extract meaningful insights related to sales performance, customer behavior, product trends, and operational efficiency.
 
-The analysis has been conducted using Microsoft Excel, with an interactive dashboard developed to visualize key business metrics and support decision-making.
+The analysis has been performed using Microsoft Excel, and an interactive dashboard has been created to visualize key business metrics and support data-driven decision-making.
 
-#Objectives
-Analyze overall revenue and order trends
-Evaluate delivery performance
-Identify top-performing products and categories
-Understand customer spending behavior
-Examine sales patterns across occasions, time, and geography
-Provide actionable business recommendations
-#Key Metrics
-Total Revenue: ₹35,20,984
-Total Orders: 1,000
-Average Delivery Time: 5.53 days
-Average Customer Spending: ₹3,520.98
-#Key Insights
-Sales Trends:
-Sales exhibit strong seasonality, with peak performance observed in February and August. This aligns with major gifting occasions and highlights the importance of seasonal demand.
+---
 
-Occasion-Based Performance:
-Anniversary and Raksha Bandhan generate the highest revenue among all occasions. Other events such as Holi and Valentine’s Day also contribute significantly to overall sales.
+## 🎯 Objectives
+- Analyze overall revenue and order trends  
+- Evaluate delivery performance  
+- Identify top-performing products and categories  
+- Understand customer spending behavior  
+- Examine sales patterns across occasions, time, and geography  
+- Provide actionable business recommendations  
 
-Product Performance:
-Categories such as Colors, Soft Toys, and Sweets contribute the largest share of revenue. High-performing products are primarily bundled or premium gift items, indicating customer preference for curated offerings.
+---
 
-Customer Behavior:
-The average spending per customer reflects a moderate to high-value purchase pattern, typical of occasion-driven gifting. This creates opportunities for upselling and cross-selling.
+## 📊 Key Metrics
 
-Geographic Insights:
-Certain cities contribute a higher number of orders, indicating regional demand concentration. This can support targeted marketing and logistics planning.
+| Metric | Value |
+|--------|------|
+| Total Revenue | ₹35,20,984 |
+| Total Orders | 1,000 |
+| Average Delivery Time | 5.53 days |
+| Average Customer Spending | ₹3,520.98 |
 
-Time-Based Trends:
-Sales activity peaks during evening hours, suggesting that customers are more likely to place orders during this time.
+---
 
-Delivery Performance:
-The average delivery duration is 5.53 days, indicating a stable and consistent delivery process.
+## 🔍 Key Insights
 
-Order Quantity vs Delivery Time:
-The correlation between order quantity and delivery time is 0.003478174, which indicates no significant relationship. This suggests that delivery performance remains consistent regardless of order size, reflecting operational efficiency and scalability.
+### 📈 Sales Trends
+- Strong seasonality observed  
+- Peak sales in February and August  
+- Driven by major gifting occasions  
 
-#Dashboard Features
-KPI metrics for revenue, orders, delivery time, and customer spending
-Revenue analysis by occasion, category, and time
-Monthly sales trend visualization
-Top 5 products by revenue
-Top 10 cities by number of orders
-Interactive filters for date and occasion
+### 🎉 Occasion-Based Performance
+- Anniversary and Raksha Bandhan generate highest revenue  
+- Valentine’s Day and Holi also contribute significantly  
 
-#Tools and Technologies
-Microsoft Excel
-Pivot Tables
-Charts and Visualizations
-Slicers and Timelines
-Data Cleaning and Transformation
+### 🎁 Product Performance
+- Top categories: Colors, Soft Toys, Sweets  
+- Customers prefer bundled and premium gift items  
 
-#Business Recommendations
-Increase focus on high-performing occasions such as Anniversary and Raksha Bandhan
-Implement promotional strategies during low-performing months
-Promote top-selling and high-margin products
-Optimize delivery operations during peak demand periods
-Use customer insights to drive personalized marketing strategies
-Leverage time-based trends for targeted campaigns
-Expand operations in high-demand regions
+### 👥 Customer Behavior
+- Moderate to high average spending per customer  
+- Strong potential for upselling and cross-selling  
 
-#Conclusion
-The analysis demonstrates that sales performance is driven by seasonal demand, product preferences, and customer behavior. Additionally, the absence of a relationship between order quantity and delivery time indicates a well-optimized logistics system. These insights can support strategic decisions aimed at improving revenue, efficiency, and customer satisfaction.
+### 🌍 Geographic Insights
+- Certain cities show higher order concentration  
+- Useful for targeted marketing and logistics planning  
 
-Author
-P. Priti Subudhi
-M.Com Graduate
-Aspiring Data Analyst
+### ⏰ Time-Based Trends
+- Peak order activity during evening hours  
+
+### 🚚 Delivery Performance
+- Average delivery time: 5.53 days  
+- Indicates stable and consistent logistics  
+
+### 📦 Order Quantity vs Delivery Time
+- Correlation: 0.003478174  
+- No significant relationship  
+- Indicates efficient and scalable operations  
+
+---
+
+## 📊 Dashboard Features
+- KPI cards for Revenue, Orders, Delivery Time, Customer Spending  
+- Revenue analysis by Occasion, Category, and Time  
+- Monthly sales trend visualization  
+- Top 5 products by revenue  
+- Top 10 cities by orders  
+- Interactive filters (Slicers & Timelines)  
+
+---
+
+## 🛠️ Tools & Technologies
+- Microsoft Excel  
+- Pivot Tables  
+- Charts & Visualizations  
+- Slicers & Timelines  
+- Data Cleaning & Transformation  
+
+---
+
+## 💡 Business Recommendations
+- Focus on high-performing occasions like Anniversary & Raksha Bandhan  
+- Run promotions during low-performing months  
+- Promote high-margin and top-selling products  
+- Optimize delivery operations during peak periods  
+- Use customer data for personalized marketing  
+- Leverage time-based trends for campaigns  
+- Expand operations in high-demand regions  
+
+---
+
+## 📌 Conclusion
+The analysis highlights that sales performance is primarily driven by seasonal demand, product preferences, and customer behavior.
+
+Additionally, the negligible correlation between order quantity and delivery time reflects a well-optimized logistics system.
+
+These insights can help improve revenue, operational efficiency, and customer satisfaction.
+
+---
+
+## 👩‍💻 Author
+P. Priti Subudhi|M.Com Graduate |Aspiring Data Analyst
+
+
